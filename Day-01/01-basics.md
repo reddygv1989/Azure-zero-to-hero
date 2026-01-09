@@ -31,7 +31,12 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 **What It's Like:** Picture having your own personal, private computer space. It's like a digital clubhouse where only you and your team have access. Others can't just drop in.
 
-**Example:** A company using its own server for all its digital needs.
+**Example:**
+1. Banking Sector: RBI or ICICI Bank hosts private cloud for financial apps
+
+2. Government: Ministry of IT or defense departments run internal cloud
+
+3. Enterprise: Big tech companies (Google internal services, Microsoft internal apps)
 
 ## Hybrid Cloud:
 
