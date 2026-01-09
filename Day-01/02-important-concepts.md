@@ -38,7 +38,8 @@ High Availability (HA) ensures that a system or application is operational and a
 
 ## Fault Tolerance
 
-Fault Tolerance is the ability of a system to continue operating without interruption in the presence of hardware or software failures.
+Fault Tolerance is the ability of a system to continue operating without interruption in the presence of hardware or software failures. In simple words A fault-tolerant system is one that continues to function correctly even if one or more components fail.
+Key Idea: Failures DO happen — the system is designed to handle them without downtime.
 
 ## Disaster Recovery
 
