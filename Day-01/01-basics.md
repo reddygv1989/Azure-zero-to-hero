@@ -18,7 +18,12 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 **What It's Like:** Imagine a giant, shared computer space on the internet. It's like using apps, storing files, or doing tasks on the internet that anyone can access.
 
-**Example:** Think of Google Drive or Amazon Web Services (AWS).
+**Example:** 
+1. Netflix runs applications on AWS EC2
+
+2. Stores videos in S3
+
+3. Uses load balancers and multiple AZs
 
 ## Private Cloud:
 
